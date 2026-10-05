@@ -7,6 +7,7 @@ A home apresenta o serviço de diagnóstico e implementação de IA de Vinicius 
 - Home: https://jornadaenergiacriativa.com.br/
 - Privacidade da qualificação: https://jornadaenergiacriativa.com.br/privacidade-qualificacao.html
 - Typeform: https://viniciuscwb.typeform.com/to/xsjKtx7v
+- Roteiro autoguiado: https://jornadaenergiacriativa.com.br/mapa-tarefa.html — prepara e baixa um TXT local; sem envio de respostas ou armazenamento no servidor.
 
 A qualificação coleta o contexto inicial; a indicação de pré-diagnóstico ou orientação pontual depende de revisão humana. Não há promessa de encaminhamento automático, preço ou prazo padrão. O pré-diagnóstico é um segundo formulário para detalhar a rotina, não o diagnóstico pago.
 
