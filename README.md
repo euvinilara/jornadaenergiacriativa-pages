@@ -22,7 +22,9 @@ A qualificação coleta o contexto inicial; a indicação de pré-diagnóstico o
 
 ## Arquivos e publicação
 
-`index.html` é a landing estática responsiva; `privacidade-qualificacao.html` cobre apenas a triagem. `assets/` contém a fonte Archivo licenciada SIL OFL, retrato aprovado e grafismo aprovado da marca. Não incluir os materiais privados de preparação, evidências de navegador ou respostas dos leads.
+`index.html` é a landing estática responsiva; `privacidade-qualificacao.html` cobre apenas a triagem. A revisão v2 usa analogias de delegação de rotina e passagem de bastão, CTAs explícitos em `#B47B2C` com texto `#111111`, e as imagens C02-11, C02-25 e C02-27 em proporção retangular. As WebP são conversões lossless dos assets aprovados; os originais não foram alterados. A fonte Archivo variable é servida em WOFF2, com a licença SIL OFL preservada. `assets/site.css` conserva a base e `assets/brand.css` compartilha os tokens e refinamentos entre home e Mapa.
+
+O Typeform `xsjKtx7v` mantém as dez perguntas e a avaliação humana; recebeu um tema próprio com Archivo, fundo `#F5F3ED` e botões de marca, além do botão inicial “Começar”. Não houve upgrade, mudança de lógica de qualificação ou alteração do tema anterior compartilhado. Não incluir os materiais privados de preparação, relatórios de auditoria, evidências de navegador ou respostas dos leads.
 
 GitHub Pages publica a raiz da branch `main`; `CNAME` identifica o domínio. Alterações na branch podem disparar publicação. DNS e certificado HTTPS precisam ser verificados separadamente antes de alegar disponibilidade no domínio.
 
