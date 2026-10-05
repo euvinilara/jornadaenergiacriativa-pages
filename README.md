@@ -1,33 +1,28 @@
-# Jornada Energia Criativa — páginas legais
+# Jornada Energia Criativa — Implementa IA
 
-Páginas legais e informativas da Jornada Energia Criativa e suas integrações.
+A home apresenta o serviço de diagnóstico e implementação de IA de Vinicius Lara. As páginas legais das integrações anteriores são preservadas nos mesmos caminhos.
 
-## Páginas publicadas
+## Página e qualificação
 
-- [Página inicial](https://euvinilara.github.io/jornadaenergiacriativa-pages/index.html)
-- [Política de privacidade](https://euvinilara.github.io/jornadaenergiacriativa-pages/privacidade.html)
-- [Termos](https://euvinilara.github.io/jornadaenergiacriativa-pages/termos.html)
-- [Informações da integração Hermes/Google](https://euvinilara.github.io/jornadaenergiacriativa-pages/hermes-google.html)
-- [Privacidade da integração Hermes/Google](https://euvinilara.github.io/jornadaenergiacriativa-pages/privacidade-hermes-google.html)
-- [Privacidade da integração Kairos/Hermes/Instagram](https://euvinilara.github.io/jornadaenergiacriativa-pages/privacidade-kairos-hermes-instagram.html)
-- [Exclusão de dados da integração Kairos/Hermes/Instagram](https://euvinilara.github.io/jornadaenergiacriativa-pages/exclusao-dados-kairos-hermes-instagram.html)
+- Home: https://jornadaenergiacriativa.com.br/
+- Privacidade da qualificação: https://jornadaenergiacriativa.com.br/privacidade-qualificacao.html
+- Typeform: https://viniciuscwb.typeform.com/to/xsjKtx7v
 
-## Arquivos-fonte
+A qualificação coleta o contexto inicial; a indicação de pré-diagnóstico ou orientação pontual depende de revisão humana. Não há promessa de encaminhamento automático, preço ou prazo padrão. O pré-diagnóstico é um segundo formulário para detalhar a rotina, não o diagnóstico pago.
 
-Os links abaixo abrem o código dos arquivos no GitHub, não as páginas publicadas.
+## Documentos das integrações
 
-- [index.html](index.html)
-- [privacidade.html](privacidade.html)
-- [termos.html](termos.html)
-- [hermes-google.html](hermes-google.html)
-- [privacidade-hermes-google.html](privacidade-hermes-google.html)
-- [privacidade-kairos-hermes-instagram.html](privacidade-kairos-hermes-instagram.html)
-- [exclusao-dados-kairos-hermes-instagram.html](exclusao-dados-kairos-hermes-instagram.html)
+- [Privacidade](https://jornadaenergiacriativa.com.br/privacidade.html)
+- [Termos](https://jornadaenergiacriativa.com.br/termos.html)
+- [Informações Hermes/Google](https://jornadaenergiacriativa.com.br/hermes-google.html)
+- [Privacidade Hermes/Google](https://jornadaenergiacriativa.com.br/privacidade-hermes-google.html)
+- [Privacidade Kairos/Hermes/Instagram](https://jornadaenergiacriativa.com.br/privacidade-kairos-hermes-instagram.html)
+- [Exclusão de dados Kairos/Hermes/Instagram](https://jornadaenergiacriativa.com.br/exclusao-dados-kairos-hermes-instagram.html)
 
-## Manutenção
+## Arquivos e publicação
 
-O GitHub Pages está configurado para publicar a partir da branch `main`, na raiz do repositório. Alterações nessa branch podem disparar uma nova publicação.
+`index.html` é a landing estática responsiva; `privacidade-qualificacao.html` cobre apenas a triagem. `assets/` contém a fonte Archivo licenciada SIL OFL, retrato aprovado e grafismo aprovado da marca. Não incluir os materiais privados de preparação, evidências de navegador ou respostas dos leads.
 
-Antes de renomear o repositório, mover arquivos ou alterar caminhos, confira as URLs utilizadas pelos serviços integrados e por eventuais domínios externos.
+GitHub Pages publica a raiz da branch `main`; `CNAME` identifica o domínio. Alterações na branch podem disparar publicação. DNS e certificado HTTPS precisam ser verificados separadamente antes de alegar disponibilidade no domínio.
 
-Este README é apenas um guia de navegação e manutenção. Os textos legais permanecem nos arquivos HTML; a documentação não substitui sua revisão jurídica.
+Preservar os caminhos legais usados pelos aplicativos. As políticas publicadas não substituem revisão jurídica.
